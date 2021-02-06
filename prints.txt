@@ -1,0 +1,6 @@
+C:\Users\Owner\OneDrive\Desktop\test project>cd "c:\Users\Owner\OneDrive\Desktop\test project\" && dotnet run Program.cs
+Enter Your First Name : Zachary
+Enter Your Last Name : Munson
+Your Full Name Is Zachary,Munson
+C:\Users\Owner\OneDrive\Desktop\test project>
+
